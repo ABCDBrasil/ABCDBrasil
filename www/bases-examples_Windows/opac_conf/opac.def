@@ -1,10 +1,10 @@
 OpacHttp=http://localhost:9090/opac/
 logo=assets/img/logoabcd.png
 link_logo=/opac
-TituloPagina=ABCD - OPAC
+TituloPagina=ACERVO CHCM
 footer=2022 - ABCD OPAC
-ONLINESTATMENT=Y
-WEBRENOVATION=Y
-WEBRESERVATION=Y
+ONLINESTATMENT=N
+WEBRENOVATION=N
+WEBRESERVATION=N
 SHOWHELP=N
 charset=UTF-8

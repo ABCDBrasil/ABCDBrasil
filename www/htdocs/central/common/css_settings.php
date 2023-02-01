@@ -53,7 +53,7 @@ if ((isset($def["COLOR_LINK"])) && (!empty($def["COLOR_LINK"]))) {
 if ((isset($def["HEADING"])) && (!empty($def["HEADING"]))) {
 	echo "
 	.heading, 
-	nav.heading-nav ul li, 
+	nav.heading-nav ul li form button, 
 	nav.heading-nav a, 
 	nav.heading-nav select,
 	.bt-cat,
@@ -64,8 +64,11 @@ if ((isset($def["HEADING"])) && (!empty($def["HEADING"]))) {
 	}\n";
 } else {
 	echo "
-	.heading, 
-	nav.heading-nav ul li, 
+	.heading {
+		background: linear-gradient(137deg, rgb(255, 0, 0) 0%, rgb(117, 39, 100) 62%, rgb(73, 14, 124) 100%);
+	}
+
+	nav.heading-nav ul li form button, 
 	nav.heading-nav a, 
 	nav.heading-nav select,
 	.bt-cat,
@@ -186,7 +189,7 @@ if ((isset($def["FOOTER"])) && (!empty($def["FOOTER"]))) {
 } else {
 	echo "
 	.footer {
-		background-color: #003366;
+		background: linear-gradient(137deg, rgb(255, 0, 0) 0%, rgb(117, 39, 100) 62%, rgb(73, 14, 124) 100%);
 	}\n";
 }
 if ((isset($def["FOOTER_FONTCOLOR"])) && (!empty($def["FOOTER_FONTCOLOR"]))) {

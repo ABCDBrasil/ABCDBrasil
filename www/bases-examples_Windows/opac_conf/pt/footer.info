@@ -1,7 +1,153 @@
 
 [HTML]
-<div class="container">
-  <footer class="py-3 my-4 border-top pb-3 mb-3">
-    <p class="text-center text-muted"><a href="//abcd-community.org/" target="_blank">&copy; 2022 Made by ABCD Community</a></p>
-  </footer>
-</div>
+
+<footer>
+    <div class="container mapa">
+        <h2>Mapa do site</h2>
+    </div>
+    <div class="container">
+        <div class="flex flex-between align-center">
+            <div class="col1">
+                <a href="">
+                    <img src="https://memoria.mackenzie.br/wp-content/themes/theme_chcm/assets/images/logo-footer-new.png?v2" alt="">
+                </a>
+
+            </div>
+            <div class="col1">
+                <div class="flex gap35">
+                    <div class="col1">
+                        <img src="https://memoria.mackenzie.br/wp-content/themes/theme_chcm/assets/images/logo_ipm.png" alt="">
+                    </div>
+                    <div class="col1">
+                        <img src="https://memoria.mackenzie.br/wp-content/themes/theme_chcm/assets/images/logo_chancelaria.png" alt="">
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="flex flex-between">
+            <div class="social-media">
+                <p>
+                    @chcmackenzie
+                </p>
+                <div class="flex">
+                    <a href="https://www.facebook.com/chcmackenzie" target="_blank">
+                        <svg id="Grupo_418" data-name="Grupo 418" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+                            <defs>
+                                <clipPath id="clip-path">
+                                    <rect id="Retângulo_46" data-name="Retângulo 46" width="16.067" height="16.078" fill="#C21934"></rect>
+                                </clipPath>
+                            </defs>
+                            <circle id="Elipse_6" data-name="Elipse 6" cx="16.5" cy="16.5" r="16.5" fill="#fff"></circle>
+                            <g id="Grupo_53" data-name="Grupo 53" transform="translate(7.983 7.983)">
+                                <g id="Grupo_52" data-name="Grupo 52" clip-path="url(#clip-path)">
+                                    <path id="Caminho_351" data-name="Caminho 351" d="M16.067,7.56v.973c-.011.046-.025.092-.032.139-.06.41-.085.83-.184,1.23a8.077,8.077,0,0,1-5.412,5.935c-.271.1-.556.16-.847.242v-5.8h1.567l.353-2.26H9.129c0-.07,0-.123,0-.176,0-.513-.026-1.029.014-1.539a1.01,1.01,0,0,1,.991-.977c.5-.04,1.014-.026,1.521-.035.062,0,.125,0,.188,0V3.312c-.126-.018-.243-.037-.361-.051a8.132,8.132,0,0,0-2.163-.053A2.717,2.717,0,0,0,6.894,5.862c-.048.656-.026,1.317-.035,1.976,0,.057,0,.114,0,.186h-1.8v2.268H6.848v5.763a.792.792,0,0,1-.091-.005,8.36,8.36,0,0,1-2.689-.941A8.058,8.058,0,0,1,.093,6.836a7.774,7.774,0,0,1,2.6-4.794A7.837,7.837,0,0,1,9.4.115a7.571,7.571,0,0,1,3.894,1.852A7.907,7.907,0,0,1,15.97,6.858c.035.234.065.468.1.7" transform="translate(0 0)" fill="#C21934"></path>
+                                </g>
+                            </g>
+                        </svg>
+                    </a>
+                    <a href="https://www.twitter.com/chcmackenzie" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+                            <g id="Grupo_414" data-name="Grupo 414" transform="translate(0.11)">
+                                <circle id="Elipse_2" data-name="Elipse 2" cx="16.5" cy="16.5" r="16.5" transform="translate(-0.11)" fill="#fff"></circle>
+                                <path id="Caminho_75" data-name="Caminho 75" d="M18.948,18.026a8.5,8.5,0,0,0,1.423-2.908,12.2,12.2,0,0,0,.371-2.97c0-.124.124-.124.186-.186a7.8,7.8,0,0,0,1.238-1.238.468.468,0,0,0,.062-.248c0-.062,0,0-.062,0a4.438,4.438,0,0,1-1.547.433,1.968,1.968,0,0,0,.743-.681,1.947,1.947,0,0,0,.495-.928V9.239h-.062a6.046,6.046,0,0,1-1.856.681c-.062,0-.062,0-.124-.062l-.186-.186a2.6,2.6,0,0,0-.866-.557A3.33,3.33,0,0,0,17.4,8.868a3.328,3.328,0,0,0-2.351,1.238,3.329,3.329,0,0,0-.619,1.238,3.078,3.078,0,0,0-.062,1.3l-1.98-.309A9.065,9.065,0,0,1,8,9.549a.116.116,0,0,0-.186,0,3.19,3.19,0,0,0,.557,3.775,1.638,1.638,0,0,0,.371.309A4.088,4.088,0,0,1,7.5,13.323c-.062-.062-.124,0-.124.062v.371a3.308,3.308,0,0,0,1.98,2.6.894.894,0,0,0,.433.124,5.078,5.078,0,0,1-1.176.062c-.062,0-.124,0-.062.124a3.373,3.373,0,0,0,2.475,2.1.464.464,0,0,1,.309.062,4.267,4.267,0,0,1-1.733.928,5.3,5.3,0,0,1-2.6.309H6.82c-.062,0,0,.062.062.124a2.69,2.69,0,0,0,.433.248A10.091,10.091,0,0,0,8.49,21a9.744,9.744,0,0,0,7.116-.186A9.826,9.826,0,0,0,18.948,18.026Z" transform="translate(1.988 1.51)" fill="#C21934"></path>
+                            </g>
+                        </svg>
+                    </a>
+                    <a href="https://youtube.com/channel/UCUQM3RmmgTuMpnRr1AG2e2w" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="33" height="33" viewBox="0 0 33 33">
+                            <g id="Grupo_415" data-name="Grupo 415" transform="translate(0.219)">
+                                <circle id="Elipse_3" data-name="Elipse 3" cx="16.5" cy="16.5" r="16.5" transform="translate(-0.219)" fill="#fff"></circle>
+                                <path id="Caminho_79" data-name="Caminho 79" d="M19,21.213a3.439,3.439,0,0,0,3.454-3.454V13.6A3.439,3.439,0,0,0,19,10.148h-8.89A3.439,3.439,0,0,0,6.659,13.6v4.157a3.439,3.439,0,0,0,3.454,3.454Zm-6.076-3.07a.282.282,0,0,1-.384-.256V13.666c0-.192.512-.32.7-.192l3.837,2.047c.128.064.32.32.192.384Z" transform="translate(2.123 1.028)" fill="#C21934"></path>
+                            </g>
+                        </svg>
+                    </a>
+                    <a href="https://www.tiktok.com/@chcmackenzie?_t=8WVoFcM4PQM&amp;_r=1" target="_blank">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="33.005" height="32.996" viewBox="0 0 33.005 32.996">
+                            <g id="Grupo_599" data-name="Grupo 599" transform="translate(-98 -2222.502)">
+                                <rect id="Retângulo_627" data-name="Retângulo 627" width="23" height="22" transform="translate(103 2228)" fill="#c51833"></rect>
+                                <g id="_5dgnwX" data-name="5dgnwX" transform="translate(56.732 2056.724)">
+                                    <g id="Group_599" data-name="Group 599" transform="translate(41.268 165.775)">
+                                        <path id="Path_1044" data-name="Path 1044" d="M41.268,183.44v-2.32c.027-.2.057-.4.08-.6a16.023,16.023,0,0,1,2.62-7.275,16.2,16.2,0,0,1,12.917-7.434A16.007,16.007,0,0,1,66.04,168a16.551,16.551,0,0,1,8.014,16.986,16.308,16.308,0,0,1-5.12,9.433,16.107,16.107,0,0,1-8.264,4.1c-.578.1-1.162.171-1.743.256h-2.32c-.37-.048-.74-.091-1.11-.145a16.548,16.548,0,0,1-13.972-13.446C41.42,184.606,41.353,184.022,41.268,183.44Zm15-3.364c-.486,0-.936-.028-1.383,0a5.81,5.81,0,0,0-5.315,6.642,5.874,5.874,0,0,0,7.27,4.787,5.805,5.805,0,0,0,4.447-5.777c0-2.1-.013-4.208-.021-6.312v-.3c.763.37,1.492.775,2.259,1.082a5.906,5.906,0,0,0,2.492.406v-3.02a4.816,4.816,0,0,1-4.763-4.7H58.207v12.858a2.8,2.8,0,1,1-5.588-.084,2.751,2.751,0,0,1,2.408-2.538,12.2,12.2,0,0,1,1.241-.007Z" transform="translate(-41.268 -165.775)" fill="#fff"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg>
+                    </a>
+                    <a href="https://www.instagram.com/chcmackenzie">
+                        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="33" viewBox="0 0 33 33">
+                            <defs>
+                                <clipPath id="clip-path">
+                                    <rect id="Retângulo_45" data-name="Retângulo 45" width="17" height="17" transform="translate(-0.422 0.017)" fill="#C21934"></rect>
+                                </clipPath>
+                            </defs>
+                            <g id="Grupo_417" data-name="Grupo 417" transform="translate(0.439)">
+                                <circle id="Elipse_5" data-name="Elipse 5" cx="16.5" cy="16.5" r="16.5" transform="translate(-0.439)" fill="#fff"></circle>
+                                <g id="Grupo_51" data-name="Grupo 51" transform="translate(7.983 7.983)">
+                                    <g id="Grupo_50" data-name="Grupo 50" clip-path="url(#clip-path)">
+                                        <path id="Caminho_348" data-name="Caminho 348" d="M4.132,0h8.511c.17.032.342.055.51.1a4.484,4.484,0,0,1,3.479,3.36c.061.219.091.446.135.669v8.511c-.045.229-.08.461-.137.687A4.5,4.5,0,0,1,12.4,16.75c-2.673.026-5.346.009-8.018,0a3.793,3.793,0,0,1-1.615-.361,4.423,4.423,0,0,1-2.749-4.2c-.029-2.542-.01-5.084,0-7.626A4.131,4.131,0,0,1,.1,3.64,4.462,4.462,0,0,1,3.479.131C3.693.073,3.914.042,4.132,0M.99,8.367c0,1.249,0,2.5,0,3.747a3.892,3.892,0,0,0,.083.843,3.544,3.544,0,0,0,3.535,2.819q3.78.006,7.56,0a3.412,3.412,0,0,0,1.506-.317,3.478,3.478,0,0,0,2.1-3.3c.021-2.514.008-5.029,0-7.543a3.768,3.768,0,0,0-.078-.8A3.538,3.538,0,0,0,12.2.984q-3.8-.016-7.609,0a3.483,3.483,0,0,0-2.937,1.5A3.531,3.531,0,0,0,.99,4.62q0,1.874,0,3.747" transform="translate(0 0.001)" fill="#C21934"></path>
+                                        <path id="Caminho_349" data-name="Caminho 349" d="M125.2,120.374a4.582,4.582,0,1,1-4.577-4.58,4.588,4.588,0,0,1,4.577,4.58m-4.6-3.6a3.6,3.6,0,1,0,3.614,3.583,3.594,3.594,0,0,0-3.614-3.583" transform="translate(-112.229 -111.997)" fill="#C21934"></path>
+                                        <path id="Caminho_350" data-name="Caminho 350" d="M358.914,68.737a1.356,1.356,0,0,1,0-2.711,1.38,1.38,0,0,1,1.362,1.366,1.366,1.366,0,0,1-1.362,1.345m.366-1.356a.358.358,0,0,0-.366-.358.372.372,0,0,0-.364.365.386.386,0,0,0,.371.365.373.373,0,0,0,.359-.372" transform="translate(-345.837 -63.86)" fill="#C21934"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+            <div class="col paddTo">
+                <h3>CHCM</h3>
+                <div class="menu-chcm-container"><ul id="menu-chcm" class="menu_wp"><li id="menu-item-979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-979"><a href="https://memoria.mackenzie.br/o-centro-historico-cultural-mackenzie/">SOBRE O CHCM</a></li>
+<li id="menu-item-980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-980"><a href="https://memoria.mackenzie.br/edificio-mackenzie/">Edifício Mackenzie</a></li>
+<li id="menu-item-982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-982"><a href="https://memoria.mackenzie.br/instituto-presbiteriano-mackenzie/">ISTO É MACKENZIE</a></li>
+<li id="menu-item-983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-983"><a href="https://memoria.mackenzie.br/nucleos-de-historia-e-cultura-mackenzie/">Núcleos de História e<br>Cultura Mackenzie (NHCM)</a></li>
+<li id="menu-item-984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-984"><a href="https://memoria.mackenzie.br/elmmac/">Escola Livre de Música Mary<br> Ann Chamberlain (ELMMAC)</a></li>
+<li id="menu-item-985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-985"><a href="https://memoria.mackenzie.br/depoimentos/">Memória Mackenzista</a></li>
+</ul></div>
+            </div>
+            <div class="col paddTo">
+                <h3>Acontece</h3>
+                <div class="menu-acontece-container"><ul id="menu-acontece" class="menu_wp"><li id="menu-item-986" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-986"><a href="/eventos/">Exposições e eventos</a></li>
+<li id="menu-item-987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-987"><a href="/conteudo-exclusivo/">Conteúdo Exclusivo</a></li>
+</ul></div>            </div>
+            <div class="col paddTo">
+                <h3>Pesquise</h3>
+                <div class="menu-pesquise-container"><ul id="menu-pesquise" class="menu_wp"><li id="menu-item-990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-990"><a href="/acervo">Acervo</a></li>
+<li id="menu-item-989" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-989"><a href="https://memoria.mackenzie.br/linhas-de-pesquisa-e-pesquisador-residente/">Linhas de pesquisa</a></li>
+<li id="menu-item-991" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-991"><a href="/acontece/">Repositório de teses e dissertações</a></li>
+<li id="menu-item-992" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-992"><a href="/visite">Agendamento de pesquisa</a></li>
+</ul></div>            </div>
+            <div class="col paddTo">
+                <h3>Chácara Lane</h3>
+                <div class="menu-chacara-lane-container"><ul id="menu-chacara-lane" class="menu_wp"><li id="menu-item-993" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-993"><a href="https://memoria.mackenzie.br/chacara-lane/">Histórico</a></li>
+</ul></div>
+                <div class="col mt1">
+                    <h3>Visite</h3>
+                    <div class="menu-visite-container"><ul id="menu-visite" class="menu_wp"><li id="menu-item-994" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-994"><a href="/agendar">Passeio Histórico</a></li>
+<li id="menu-item-995" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-995"><a href="/agendar">Agendamentos</a></li>
+<li id="menu-item-996" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-996"><a href="https://memoria.mackenzie.br/fale-conosco/">Contato</a></li>
+</ul></div>                </div>
+            </div>
+            <div class="col paddTo">
+                <h3>Apoie</h3>
+                <div class="menu-apoie-container"><ul id="menu-apoie" class="menu_wp"><li id="menu-item-997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-997"><a href="https://memoria.mackenzie.br/para-sempre-mackenzista/">Para Sempre Mackenzista</a></li>
+</ul></div>                <div class="col mt1">
+                    <h3>Políticas e termos</h3>
+                    <div class="menu-politica-e-termos-container"><ul id="menu-politica-e-termos" class="menu_wp"><li id="menu-item-998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-998"><a href="https://memoria.mackenzie.br/politica-de-privacidade/">Política de privacidade</a></li>
+<li id="menu-item-999" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-999"><a href="https://memoria.mackenzie.br/politica-de-privacidade/">Política de cookies</a></li>
+<li id="menu-item-1000" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1000"><a href="/fale-conosco/#faq">FAQ</a></li>
+</ul></div>                </div>
+            </div>
+        </div>
+        <div class="copyright">
+            @2023 Mackenzie. Todos os direitos reservados. Criado com <a href="https://abcd-community.org" target="_blank">ABCD</a>. Design <a href="https://chleba.net" target="_blank">Agência
+                Chleba</a>.
+        </div>
+        <div class="smoothscroll-top show">
+            <span class="scroll-top-inner">
+                <i class="fa fa-2x fa-arrow-circle-up"></i>
+            </span>
+        </div>
+    </div>
+
+</footer>

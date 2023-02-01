@@ -1,11 +1,11 @@
 <?php
 if (!isset($mostrar_menu) or (isset($mostrar_menu) and $mostrar_menu == "S")) {
 ?>
-    <nav id="menu-wrapper">
-        <div id="menu">
-            <ul>
-                <li><a href="javascript:openNav()">&#9776;<?php echo $msgstr["menu"]; ?></a></li>
-                <li><a href="javascript:document.inicio_menu.submit()"><?php echo $msgstr["inicio"] ?></a></li>
+    <section class="breadcrumbs" id="menu-wrapper">
+        <div class="container" id="menu">
+            <p>
+                <a href="https://memoria.mackenzie.br/">Home</a> | 
+                <span><a href="javascript:document.inicio_menu.submit()"><?php echo $msgstr["inicio"] ?></a></span>  | 
                 <?php
                 if (file_exists($db_path . "opac_conf/" . $lang . "/menu.info")) {
                     $fp = file($db_path . "opac_conf/" . $lang . "/menu.info");
@@ -13,16 +13,17 @@ if (!isset($mostrar_menu) or (isset($mostrar_menu) and $mostrar_menu == "S")) {
                         $value = trim($value);
                         if ($value != "") {
                             $x = explode('|', $value);
-                            echo "<li><a href=\"" . $x[1] . "\"";
+                            echo "<span><a href=\"" . $x[1] . "\"";
                             if (isset($x[2]) and $x[2] == "Y") echo " target=_blank";
-                            echo ">" . $x[0] . "</a></li>";
+                            echo ">" . $x[0] . "</a></span>  | ";
                         }
                     }
                 }
 
                 ?>
-            </ul>
+            </p>
         </div>
+        <!--
         <div id="right">
             <div id="language">
 
@@ -40,9 +41,10 @@ if (!isset($mostrar_menu) or (isset($mostrar_menu) and $mostrar_menu == "S")) {
                     ?>
                 </select>
             </div>
-            <!-- end #menu -->
+            <!-- end #menu 
         </div>
+                -->
     <?php
 }
     ?>
-    </nav>
+    </section>

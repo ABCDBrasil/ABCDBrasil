@@ -40,8 +40,8 @@ $use_ldap=0;        // use LDAP or not
 // Set operation system depending variables
 if (stripos($_SERVER["SERVER_SOFTWARE"],"Win") > 0) {
         // Windows variables
-	$ABCD_path="/ABCD/";             // base path to ABCD-installation
- 	$db_path="/ABCD/www/bases/";     // path where the databases are to be located
+	$ABCD_path="/xampp/htdocs/ABCDBrasil/";             // base path to ABCD-installation
+ 	$db_path="/xampp/htdocs/ABCDBrasil/www/bases-examples_Windows/";     // path where the databases are to be located
  	$exe_ext=".exe";                 // extension for executables
 }else{
         // Linux variables
